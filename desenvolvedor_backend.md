@@ -16,3 +16,7 @@ Ser capaz de orientar o time no melhor caminho e ao mesmo tempo desenvolver feat
 ## REQUISITOS:
 Python (framework Flask), MySQL, Git, Unit tests.
 Desejáveis: Celery, RabbitMQ, AWS, Docker, Linux, Deis, Microservices.
+
+
+## ENVIE SEU CURRÍCULO/LINKEDIN
+Se candidate através dos contatos listados [aqui](https://github.com/LendicoBrasil/vagas/blob/master/README.md#envio-de-currículo-e-contato).
