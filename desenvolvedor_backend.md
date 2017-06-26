@@ -22,4 +22,5 @@ Desejáveis: Celery, RabbitMQ, AWS, Docker, Linux, Deis, Microservices.
 
 
 ## ENVIE SEU CURRÍCULO/LINKEDIN
+A vaga é presencial, em São Paulo/SP.
 Se candidate através dos contatos listados [aqui](https://github.com/LendicoBrasil/vagas/blob/master/README.md#envio-de-currículo-e-contato).
