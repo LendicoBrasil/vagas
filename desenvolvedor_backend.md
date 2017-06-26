@@ -17,10 +17,51 @@ Ser capaz de orientar o time no melhor caminho e ao mesmo tempo desenvolver feat
 
 
 ## REQUISITOS:
-Python (framework Flask), MySQL, Git, Unit tests.
-Desejáveis: Celery, RabbitMQ, AWS, Docker, Linux, Deis, Microservices.
+- Ser capaz de colaborar com o time quanto às melhores práticas de desenvolvimento web do mercado;
+- Ser capaz de propor otimizações de performance;
+- Ser responsável pelo desenvolvimento backend das novas funcionalidades do produto;
+- Python (framework Flask);
+- MySQL;
+- Git;
+- Unit tests;
+
+## Desejáveis:
+- Celery;
+- RabbitMQ;
+- AWS;
+- Docker;
+- Linux;
+- Deis;
+- Microservices;
+
+## Benefícios:
+
+- Horário flexível;
+- Frutas frescas;
+- Máquina de café expresso, com leite, chocolate e cappuccino;
+- Vale Refeição (valor de R$ 25,00 por dia, sempre comprado pelos dias úteis);
+- Vale Transporte (comprado perante a necessidade do empregado, desconto de 6% em folha limitado ao valor da compra);
+- Assistência odontológica (há 3 planos, cada um com um tipo de cobertura e valores, e é descontado em folha);
+- Assistência médica, ambos pela Notredame e apartamento, segue abaixo:
+    > Advance 700 (para empregados CLT de auxiliar até analista, desconto de R$ 190,46 para dependentes em folha);
+    
+    > Premium 800.1 (para empregados líder, coordenadores, supervisor, etc..., desconto de R$ 218,48 para dependentes em folha);
+    
+    > Premium 900.1 (para empregados com o salário acima de R$ 10.000,00);
+    
+    > Premium 900.3 (para empregados com cargo de gerencia, com o salário acima de R$ 10.000,00);
+
+- Seguro de vida;
+- Parceria com o SESC.
+
+
+## Contratação
+CLT a combinar.
+A vaga é presencial, em São Paulo/SP.
+
+# Local
+Escritório, Rua Pais Leme, 524 - Pinheiros, São Paulo - SP, Brasil - CEP: 05424-010 Brasil
 
 
 ## ENVIE SEU CURRÍCULO/LINKEDIN
-A vaga é presencial, em São Paulo/SP.
 Se candidate através dos contatos listados [aqui](https://github.com/LendicoBrasil/vagas/blob/master/README.md#envio-de-currículo-e-contato).
