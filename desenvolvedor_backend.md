@@ -39,7 +39,7 @@ Ser capaz de orientar o time no melhor caminho e ao mesmo tempo desenvolver feat
 - Horário flexível;
 - Frutas frescas;
 - Máquina de café expresso, com leite, chocolate e cappuccino;
-- Vale Refeição (valor de R$ 25,00 por dia, sempre comprado pelos dias úteis);
+- Vale Refeição (valor de R$ 27,00 por dia, sempre comprado pelos dias úteis);
 - Vale Transporte (comprado perante a necessidade do empregado, desconto de 6% em folha limitado ao valor da compra);
 - Assistência odontológica (há 3 planos, cada um com um tipo de cobertura e valores, e é descontado em folha);
 - Assistência médica, ambos pela Notredame e apartamento, segue abaixo:
