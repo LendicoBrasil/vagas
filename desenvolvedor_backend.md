@@ -42,15 +42,7 @@ Ser capaz de orientar o time no melhor caminho e ao mesmo tempo desenvolver feat
 - Vale Refeição (valor de R$ 27,00 por dia, sempre comprado pelos dias úteis);
 - Vale Transporte (comprado perante a necessidade do empregado, desconto de 6% em folha limitado ao valor da compra);
 - Assistência odontológica (há 3 planos, cada um com um tipo de cobertura e valores, e é descontado em folha);
-- Assistência médica, ambos pela Notredame e apartamento, segue abaixo:
-    > Advance 700 (para empregados CLT de auxiliar até analista, desconto de R$ 190,46 para dependentes em folha);
-    
-    > Premium 800.1 (para empregados líder, coordenadores, supervisor, etc..., desconto de R$ 218,48 para dependentes em folha);
-    
-    > Premium 900.1 (para empregados com o salário acima de R$ 10.000,00);
-    
-    > Premium 900.3 (para empregados com cargo de gerencia, com o salário acima de R$ 10.000,00);
-
+- Assistência médica, ambos pela Notredame e apartamento;
 - Seguro de vida;
 - Parceria com o SESC.
 
